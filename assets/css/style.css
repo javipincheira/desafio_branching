@@ -57,3 +57,8 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+svg{
+ fill: pink;
+ width: 200px;
+}
+
